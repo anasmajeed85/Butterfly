@@ -1,0 +1,6 @@
+{
+  "name": "Butterfly Chat",
+  "description": "An interactive chat app featuring a friendly companion named Butterfly, with secure data storage and advanced features.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
